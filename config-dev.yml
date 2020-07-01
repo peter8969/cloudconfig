@@ -1,1 +1,4 @@
-spring-cloud-dev  version=1
+
+
+config:
+    message: "我从github上获取的信息，version=1"
